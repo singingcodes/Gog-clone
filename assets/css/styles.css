@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+.gog-container {
+  background-color: #d9d9d9;
+  font-family: "Lato", sans-serif;
+}
+.navbar {
+  background-color: #2c2c2c;
+}
+.nav-link {
+  color: #d9d9d9;
+  font-weight: 400;
+}
+.nav-link:hover {
+  color: #723c8d;
+}
+.navbar-brand img {
+  background-color: transparent;
+}
+.bi {
+  color: #d9d9d9;
+}
+.bi:hover {
+  color: #723c8d;
+}
+#highlight-section .bi {
+  color: #2c2c2c;
+}
+.carousel-btn {
+  background-color: #679b2c;
+  color: #fff;
+  border: none;
+  border-radius: 7px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}
+.card-body {
+  background-color: #d9d9d9;
+}
+.card-body p {
+  font-size: small;
+}
+.card-holder {
+  -webkit-box-shadow: 2px 2px 15px -3px #000000;
+  box-shadow: 2px 2px 15px -3px #000000;
+}
+.cd-body .bi {
+  color: #3b3737;
+  font-weight: 100;
+}
+.span-class {
+  background-color: #723c8d;
+  color: #d9d9d9;
+  font-weight: 100;
+  padding: 2px;
+}
+
+.slash-price {
+  position: absolute;
+  bottom: 22px;
+  right: 22px;
+}
+
+.galaxy span {
+  color: #9e14e4;
+}
+.first-part p {
+  line-height: normal;
+  font-size: small;
+}
+.first-part span {
+  color: #9e14e4;
+}
+.galaxy .bi {
+  color: #9e14e4;
+  font-size: 400;
+}
+.galaxy::before {
+  content: "|";
+  color: #9e14e4;
+  padding-right: 30px;
+}
+#whatsGood-section .bi {
+  color: #2c2c2c;
+}
