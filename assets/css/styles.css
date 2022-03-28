@@ -99,3 +99,81 @@
   color: #741ca0;
   font-size: large;
 }
+#carousel-mid #carouselExampleIndicators li {
+  background-color: #6e2f8d;
+}
+#carousel-mid .carousel-indicators {
+  bottom: -30px;
+}
+footer {
+  background-color: #262626;
+}
+.footer-nav {
+  color: #d9d9d9;
+}
+.footer-nav ul {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.footer-nav li {
+  list-style-type: none;
+  display: inline-block;
+  padding-right: 10px;
+  width: auto;
+  margin-right: 0.5px;
+  padding-left: 0;
+  margin-left: 0;
+  font-weight: 400;
+  font-size: 14px;
+}
+.footer-nav li:last-child {
+  margin-right: 0;
+  padding-right: 0;
+}
+footer .bi {
+  padding-right: 10px;
+}
+.footer-p {
+  display: inline-block;
+  color: #d9d9d9;
+  position: relative;
+  left: 2px;
+  font-weight: 400;
+  font-size: 12px;
+  /* line-height: 18px; */
+}
+.footer-p a {
+  text-decoration: none;
+  padding-right: 10px;
+  color: #cf7fbe;
+  font-weight: 400;
+  font-size: 12px;
+}
+.footer-p2 {
+  position: absolute;
+  top: 12px;
+  left: 0;
+}
+.footer-btn {
+  background-color: #5e2075;
+  color: #d9d9d9;
+  border: none;
+  height: 48px;
+  border-radius: 8px;
+  font-weight: 400;
+  font-size: 14px;
+  justify-content: center;
+  box-shadow: 0 0 5px 0 rgb(0 0 0 / 73%), inset 0 0 3px 1px #a268bd;
+  white-space: nowrap;
+  padding: 0 16px 0 36px;
+  transition: 0.2s;
+}
+.footer-second-part {
+  background-color: #2f2f2f;
+}
+.text-copy-class {
+  color: rgba(255, 255, 255, 0.43);
+  font-weight: 400;
+  font-size: 12px;
+}
